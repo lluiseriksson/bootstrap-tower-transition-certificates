@@ -1,0 +1,87 @@
+{
+  "schema": "BOOTSTRAP-TOWER-CERT-1.0",
+  "mode": "box_dyadic_and_rect_merge_exact",
+  "name": "mode4_box_m3_d3_rects",
+  "box_inv_ratio_m": 3,
+  "claimed_box_pc": "7/8",
+  "dim_d": 3,
+  "side_cap_L": 10,
+  "sep_radius_t": 2,
+  "marks": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      2
+    ],
+    [
+      9,
+      0,
+      0
+    ],
+    [
+      10,
+      2,
+      1
+    ],
+    [
+      0,
+      9,
+      9
+    ],
+    [
+      1,
+      10,
+      10
+    ]
+  ],
+  "rectangles": [
+    [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      [
+        9,
+        12
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      [
+        0,
+        3
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  ],
+  "claimed_min_rect_dist": 6
+}

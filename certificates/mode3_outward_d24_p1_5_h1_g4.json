@@ -1,0 +1,14 @@
+{
+  "schema": "BOOTSTRAP-TOWER-CERT-1.0",
+  "mode": "outward_witness_geodesic_exact",
+  "name": "mode3_outward_d24_p1_5_h1_g4",
+  "dim_d": 24,
+  "p": "1/5",
+  "forced_H": 3,
+  "layers_h": 1,
+  "degree_g": 4,
+  "claimed_u": 2,
+  "claimed_binom_m": 45,
+  "claimed_thresh": 15,
+  "claimed_w0": "2841492405757269995017985942612/142108547152020037174224853515625"
+}

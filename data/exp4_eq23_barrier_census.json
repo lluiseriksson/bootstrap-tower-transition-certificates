@@ -1,0 +1,62 @@
+{
+  "d": 3,
+  "n": 4,
+  "V": 64,
+  "cases": [
+    {
+      "family": "cube222_prefix_4",
+      "seed_size": 4,
+      "final_size": 4,
+      "rounds": 0,
+      "fills": false,
+      "h1_g1_closed": true,
+      "h1_g1_barrier_size": 4,
+      "h2_g1_closed": false,
+      "h2_g1_barrier_size": 44
+    },
+    {
+      "family": "cube222_prefix_5",
+      "seed_size": 5,
+      "final_size": 5,
+      "rounds": 0,
+      "fills": false,
+      "h1_g1_closed": false,
+      "h1_g1_barrier_size": 7,
+      "h2_g1_closed": false,
+      "h2_g1_barrier_size": 47
+    },
+    {
+      "family": "cube222_prefix_6",
+      "seed_size": 6,
+      "final_size": 6,
+      "rounds": 0,
+      "fills": false,
+      "h1_g1_closed": true,
+      "h1_g1_barrier_size": 8,
+      "h2_g1_closed": false,
+      "h2_g1_barrier_size": 50
+    },
+    {
+      "family": "cube222_prefix_7",
+      "seed_size": 7,
+      "final_size": 8,
+      "rounds": 1,
+      "fills": false,
+      "h1_g1_closed": true,
+      "h1_g1_barrier_size": 8,
+      "h2_g1_closed": false,
+      "h2_g1_barrier_size": 53
+    },
+    {
+      "family": "cube222_prefix_8",
+      "seed_size": 8,
+      "final_size": 8,
+      "rounds": 0,
+      "fills": false,
+      "h1_g1_closed": true,
+      "h1_g1_barrier_size": 8,
+      "h2_g1_closed": false,
+      "h2_g1_barrier_size": 56
+    }
+  ]
+}

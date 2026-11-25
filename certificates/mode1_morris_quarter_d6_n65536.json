@@ -1,0 +1,11 @@
+{
+  "schema": "BOOTSTRAP-TOWER-CERT-1.0",
+  "mode": "tower_curve_bijection_exact",
+  "name": "mode1_morris_quarter_d6_n65536",
+  "dim_d": 6,
+  "side_n": 65536,
+  "claimed_H_n": 4,
+  "claimed_rho": "2/3",
+  "claimed_p_rho": "1/4",
+  "claimed_forced_v": "4"
+}

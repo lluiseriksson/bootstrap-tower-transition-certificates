@@ -1,0 +1,11 @@
+{
+  "schema": "BOOTSTRAP-TOWER-CERT-1.0",
+  "mode": "tower_curve_bijection_exact",
+  "name": "mode1_tower_d8_n16",
+  "dim_d": 8,
+  "side_n": 16,
+  "claimed_H_n": 3,
+  "claimed_rho": "3/8",
+  "claimed_p_rho": "5/13",
+  "claimed_forced_v": "3"
+}
